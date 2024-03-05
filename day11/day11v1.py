@@ -1,7 +1,8 @@
-number = float(input("please enter ur number: "))
-if number > 0:
-    print("positive")
-elif number < 0:
-    print("negative")
-elif number == 0:
-    print("the number is 0")
+print(True and False)
+print(False and True)
+print(True and True)
+print(False and False)
+print(True or False)
+print(False or True)
+print(True or True)
+print(False or False)
